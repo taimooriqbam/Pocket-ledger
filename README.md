@@ -21,3 +21,4 @@ All data stays on your phone. Nothing is sent to any server.
 - iPhone (Safari): Share, then Add to Home Screen.
 
 Open the app from its home screen icon and export a CSV now and then as a backup.
+ggaggha
